@@ -37,17 +37,21 @@ while True:
         valor = float(input('Informe o valor de saque: R$ '))
         
         # Verificar se o valor informado excede os limites da conta
-        if valor > saldo:
+
+        # Excedeu o saldo
+        if valor > saldo: 
             print('Operação falhou! Saldo insuficiente')
-        elif valor > limite:
+        # Excedeu o limite
+        elif valor > limite: 
             print('Operação falhou! O valor de saque excede o limite')
-        elif num_saques >= LIMITE_SAQUES:
+        # Excedeu o número de saques permitido   
+        elif num_saques >= LIMITE_SAQUES: 
             print('Operação falhou! Número máximo de saques excedido')
 
-        # Saque
+        # Saque Permitido
         elif valor > 0:
             saldo -= valor
-            extrato += f'Saque no valor de: {valor:.2f}\n' 
+            extrato += f'Saque no valor de: R$ {valor:.2f}\n' 
             print('\nSaque realizado com sucesso!\n')
             print(f'Saldo remanescente: R$ {saldo:.2f}\n', 70 * '=')  
             num_saques += 1
