@@ -1,13 +1,19 @@
 ## Olá! Eu sou o Rafael Rodrigues ✋
 
-## Um Pouco Sobre Mim:
+### Um Pouco Sobre Mim:
 <div style= "display: inline_block"><br/>
     <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
 
- Formado em Administração pela Universidade Cidade de São Paulo, com anos de vivência profissional atuando com processos administrativos, colaborando nas mais diversas atividades onde pude adquirir conhecimentos práticos.</br>
- Desde Junho/2020 concentro toda minha energia em uma transição de carreira para área de Inteligência de Negócios com o intuito de potencializar o conjunto de habilidades e conhecimentos adquiridos na área  administrativa com o uso das mais diversas ferramentas e tecnologias analiticas. </br>
- Em 2022, com muita dedicação conquistei o Certificado Profissional do Google Data Analytics que contribuiu para o aprimoramento das minhas aptidões e demais  habilidades analiticas, com o uso e aplicação das ferramentas de análise para encontrar soluções viáveis de problemas relevantes de uma empresa.</br>
- Atualmente realizo uma Especialização em Business Intelligence e Analytics pela Universidade Anhembi Morumbi almejando encontrar uma oportunidade de exercer e aplicar as habilidades adquiridas até aqui e demonstradas neste repositório.
+🎓 Formado em Administração pela Universidade Cidade de São Paulo;
+
+💼 Com anos de vivência profissional atuando com processos administrativos;
+
+📉 Desde Junho/2020 concentro toda minha energia em uma transição de carreira para área de Inteligência de Negócios;
+
+🥇 Em 2022, com muita dedicação conquistei o Certificado Profissional do Google Data Analytics 
+
+📚 Atualmente realizo uma Especialização em Business Intelligence e Analytics pela Universidade Anhembi Morumbi 
+
     
 </div></br>
 
