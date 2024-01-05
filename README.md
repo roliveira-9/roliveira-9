@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Rafael Rodrigues ✋
-<div style= "display: inline_block"><br/>
-    <img aling="center" alt= manutencao src="https://img2.gratispng.com/20180319/zcq/kisspng-maintenance-engineering-architectural-engineering-maintenance-person-cliparts-5aafef23afa992.4783032615214794597195.jpg"/>
 
-## Em Manutenção para Atualização dos projetos. Retorno previsto para 01/11/2023.
+
+## Em Manutenção para Atualização dos projetos..
     
 ### Um Pouco Sobre Mim:
 <div style= "display: inline_block"><br/>
