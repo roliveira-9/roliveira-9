@@ -20,9 +20,16 @@
     
 </div></br>
 
+
+
 ## Portfólio em BI:
 
 [![Portfólio](https://img.shields.io/badge/MYPORTFÓLIO.PBI.COM-UP-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiMDQ5OTM4YmMtNWY5ZC00NDY4LWEyMWUtYzNhZDk2NTg2Mjc5IiwidCI6ImU4YjA5ODRjLWNhMzItNDEyOC05YjM3LTVkNWE4MThjMzljNSJ9)
+
+## Principais Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roliveira-9&theme=calm_pink&repo=projeto_covid19)](https://github.com/roliveira-9/projeto_covid19)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roliveira-9&theme=calm_pink&repo=analise_integrada)](https://github.com/roliveira-9/analise_integrada)
 
 ## Tecnologias
 
@@ -31,12 +38,10 @@
     <img align="center" alt= python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt= r src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img align="center" alt= mysql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt= oracle src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-    <img align="center" alt= sqlserver src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-    <img align="center" alt= postgresql src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt= excel src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img align="center" alt= word src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    <img align="center" alt= powerpoint src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    <img align="center" alt= sqlserver src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img align="center" alt= excel src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img align="center" alt= word src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+    <img align="center" alt= powerpoint src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img align="center" alt= figma src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     
 </div></br>
