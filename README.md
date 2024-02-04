@@ -5,7 +5,9 @@
     
 ### Um Pouco Sobre Mim:
 <div style= "display: inline_block"><br/>
-    <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ" >
+        <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
+    </a>
 
 🎓 Formado em Administração pela Universidade Cidade de São Paulo;
 
@@ -40,9 +42,10 @@
     <img align="center" alt= mysql src="https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt= sqlserver src="https://img.shields.io/badge/SQL%20Server-14354C?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     <img align="center" alt= excel src="https://img.shields.io/badge/Excel-14354C?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img align="center" alt= word src="https://img.shields.io/badge/Word-14354C?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    <img align="center" alt= powerpoint src="https://img.shields.io/badge/PowerPoint-14354C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    <img align="center" alt= word 
     <img align="center" alt= figma src="https://img.shields.io/badge/Figma-14354C?style=for-the-badge&logo=figma&logoColor=white" />
+    <img align="center" alt= powerpoint src="https://img.shields.io/badge/PowerPoint-14354C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    
     
 </div></br>
 
