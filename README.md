@@ -1,23 +1,49 @@
-## Olá! Eu sou o Rafael Rodrigues ✋
+<div style= "display: inline_block"><br/>
+        <img align="" alt= powerbi src="./Make your README.png" width="" height="" />
+</div>
 
+<HR>
+<BR>
 
-## Em Manutenção para Atualização dos projetos..
-    
-### Um Pouco Sobre Mim:
+#### UM POUCO SOBRE MIM:
 <div style= "display: inline_block"><br/>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ" >
         <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
     </a>
 
-🎓 Formado em Administração pela Universidade Cidade de São Paulo;
+🏢 <b>Formação Acadêmica e Profissional:</b>
 
-💼 Com anos de vivência profissional atuando com processos administrativos;
+🎓 Graduado em Administração pela Universidade Cidade de São Paulo.
 
-📉 Desde Junho/2020 concentro toda minha energia em uma transição de carreira para área de Inteligência de Negócios;
+📉 Transição de carreira para a área de Inteligência de Negócios desde junho de 2020.
 
-🥇 Em 2022, com muita dedicação conquistei o Certificado Profissional do Google Data Analytics 
+💼 Anos de experiência em processos administrativos, aplicando habilidades de análise e gestão.
 
-📚 Atualmente realizo uma Especialização em Business Intelligence e Analytics pela Universidade Anhembi Morumbi 
+🎯 <b>Foco e Especializações:</b>
+
+🥇 Certificado Profissional do Google Data Analytics (conquistado em 2022).
+
+📚 Especializando-se em Business Intelligence e Analytics pela Universidade Anhembi Morumbi.
+
+🔧 Habilidades Técnicas:
+
+Power BI: Criação de dashboards interativos e relatórios visuais para tomada de decisão.
+Análise de Dados: Proficiência em técnicas de análise estatística e interpretação de dados.
+Ferramentas de BI: Experiência com ferramentas como SQL, Excel, Python, R e Power BI .
+
+🚀 Objetivo de Carreira:
+
+Transformar dados em insights acionáveis para otimizar processos empresariais e contribuir para a tomada de decisões estratégicas.
+
+🌐 Projetos e Contribuições:
+
+Participação em diversos projetos de BI, desenvolvendo soluções que melhoraram significativamente a eficiência operacional.
+Contribuições para a comunidade de dados através de tutoriais e compartilhamento de conhecimento sobre melhores práticas em análise de dados.
+
+📈 Interesse Contínuo:
+
+Apaixonado por explorar novas tecnologias e metodologias na área de Business Intelligence.
+Engajado em aprimorar continuamente minhas habilidades e conhecimentos para acompanhar as tendências do mercado de dados.
 
     
 </div></br>
