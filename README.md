@@ -16,9 +16,9 @@
 
 🎓 Graduado em Administração pela Universidade Cidade de São Paulo.
 
-📉 Transição de carreira para a área de Inteligência de Negócios desde junho de 2020.
+📉 Em transição de carreira para a área de Inteligência de Negócios.
 
-💼 Anos de experiência em processos administrativos, aplicando habilidades de análise e gestão.
+💼 Experiência em processos administrativos, aplicando habilidades de análise e gestão.
 
 ### 🎯  Foco e Especializações:
 
@@ -87,9 +87,9 @@ Engajado em aprimorar continuamente minhas habilidades e conhecimentos para acom
 
 ## Contatos:
 
-[![Gmail](https://img.shields.io/badge/Gmail-14354C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roliveira06r@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-14354C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelroliveira)
-[![Whatapp](https://img.shields.io/badge/WhatsApp-14354C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511915857778)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:roliveira06r@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rafaelroliveira)
+
 
 
 
