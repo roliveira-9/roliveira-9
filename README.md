@@ -7,7 +7,7 @@
 
 
 ### UM POUCO SOBRE MIM:
-<div style= "display: inline_block">
+<div>
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ" >
         <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
     </a>
