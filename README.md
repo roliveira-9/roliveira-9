@@ -28,11 +28,13 @@
 
 
 <div style= "display: inline_block">
-    🏆 Bootcamps e Treinamentos:<br>
-    <img align="center" alt= powerbi src="./Data Expert.png" width="40" height="" />
-    <img align="center" alt= python src="./Santander.png" width="50" height=""/>
-    <img align="center" alt= python src="./Python Analystic.png" width="70" height=""/>
-    <img align="center" alt= python src="./Data Analystic Power BI.png" width="50" height=""/>
+    🏆 Bootcamps e Treinamentos:<br><br>
+    <img src="./Data Expert.png" alt= powerbi width="75" height="" />  
+    <img src="./data-expert_badge-certificado.png" alt= powerbi width="75" height="" /><br><br>
+    <img src="./Santander.png" alt="Power BI Data Analytics" width="90">
+    <img src="./Python Analystic ifood.png" alt="Power BI Data Analytics" width="100">
+    <img src="./Data Analystic Power BI.png" alt="Power BI Data Analytics" width="95">
+    <img src="./Python Analystic.png" alt="Python Data Analytics" width="100">
 </div>
 <br>
 
