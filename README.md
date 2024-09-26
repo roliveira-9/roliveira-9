@@ -7,7 +7,7 @@
 
 
 ### UM POUCO SOBRE MIM:
-<div style= "display: inline_block">
+<div >
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ" >
         <img align="right" alt= powerbi src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" />
     </a>
@@ -29,8 +29,9 @@
 
 <div style= "display: inline_block">
     🏆 Bootcamps e Treinamentos:<br><br>
-    <img src="./Data Expert.png" alt= powerbi width="75" height="" />  
-    <img src="./data-expert_badge-certificado.png" alt= powerbi width="75" height="" /><br><br>
+    <img src="./Data Expert.png" alt= powerbi width="75" height="" />   
+    <img src="./data-expert_badge-certificado.png" alt= powerbi width="75" height="" />
+    <img src="./imersao-avancada_badge-certificado.png" alt= powerbi width="75" height="" /><br><br>
     <img src="./Santander.png" alt="Power BI Data Analytics" width="90">
     <img src="./Python Analystic ifood.png" alt="Power BI Data Analytics" width="100">
     <img src="./Data Analystic Power BI.png" alt="Power BI Data Analytics" width="95">
