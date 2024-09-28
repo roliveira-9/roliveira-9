@@ -26,7 +26,7 @@
 
 🥇 Certificado Profissional do Google Data Analytics (conquistado em 2022).
 
-📚 Especializando-se em Business Intelligence e Analytics pela Universidade Anhembi Morumbi.
+📚 Especialização em Business Intelligence e Analytics pela Universidade Anhembi Morumbi.
 
 
 <div style= "display: inline_block">
@@ -47,6 +47,8 @@ Power BI: Criação de dashboards interativos e relatórios visuais para tomada 
 Análise de Dados: Proficiência em técnicas de análise estatística e interpretação de dados.
 Ferramentas de BI: Experiência com ferramentas como SQL, Excel, Python, R e Power BI .
 
+
+
 ### 🚀 Objetivo de Carreira:
 
 Transformar dados em insights acionáveis para otimizar processos empresariais e contribuir para a tomada de decisões estratégicas.
@@ -55,6 +57,59 @@ Transformar dados em insights acionáveis para otimizar processos empresariais e
 
 Participação em diversos projetos de BI, desenvolvendo soluções que melhoraram significativamente a eficiência operacional.
 Contribuições para a comunidade de dados através de tutoriais e compartilhamento de conhecimento sobre melhores práticas em análise de dados.
+
+<br>
+
+<div >
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="280" src="./Dash Logistica.gif">
+    </a>
+</div>
+
+
+<br>
 
 ### 📈 Interesse Contínuo:
 
