@@ -62,49 +62,49 @@ Contribuições para a comunidade de dados através de tutoriais e compartilhame
 
 <div >
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
-    </a>
-        </a>
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         </a>
     <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
+    </a>
+        </a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
+        <img width="250" src="./Dash Logistica.gif">
     </a>
         <a href="https://app.powerbi.com/view?r=eyJrIjoiODNmYmU0N2YtMzExMC00ODliLTkzZDgtOGQ5OTk3MjQzNjMyIiwidCI6IjYwODllOTliLWMyNmMtNDc4NC05ZTM1LTgzOGE2ZWU0MjIwZCJ9&pageName=4c24696e939e61610070" >
-        <img width="280" src="./Dash Logistica.gif">
+        <img width="250" src="./Dash Logistica.gif">
     </a>
 </div>
 
