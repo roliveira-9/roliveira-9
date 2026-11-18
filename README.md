@@ -53,7 +53,7 @@ Minha trajetória combina formação em Administração e experiência em proces
 
 ## 👨🏻‍💻 Projetos
 
-<img src="./mario.gif">
+<img src="mario.gif" >
 
 <br>
 
