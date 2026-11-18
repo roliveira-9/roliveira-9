@@ -11,9 +11,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Analista de dados com formação em Administração e experiência em processos administrativos e operacionais. Transformo dados em dashboards e análises que apoiam decisões de negócio.
+Analista de Dados Jr. especialista em Business Intelligence e Analytics , com sólida formação e prática em soluções de negócios.
 
-**Objetivo:** atuar em BI/Analytics, entregando insights acionáveis para otimizar processos e decisões estratégicas.
+Minha trajetória combina formação em Administração e experiência em processos corporativos, o que me permitiu desenvolver soluções inovadoras em automação, controle de custos, fluxo de caixa, relatórios e apresentações gerenciais. Essa base se soma à minha expertise em análise de dados, modelagem e visualização, sempre com o objetivo de gerar valor para as organizações.
+
+🚀 **Atuação:** Implementação de soluções personalizadas de BI, criação de dashboards interativos, automação de tarefas, relatórios e apresentações, garantindo decisões mais rápidas e assertivas.
 
 ## 🎓 Formação
 
@@ -21,6 +23,21 @@ Analista de dados com formação em Administração e experiência em processos 
 - 📚 Pós-graduação (especialização) em Business Intelligence e Analytics, Universidade Anhembi Morumbi
 - 🎓 Formação em Análise de Dados, Xperiun | Data Analytics
 - 🥇 [Certificado Profissional Google Data Analytics (2022)](https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ)
+
+<br>
+
+## 🏆 Certificações
+
+<p>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-basico-intermediario.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-intermediario-avancado.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-python-data-science.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-banco-de-dados-sql.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-inteligencia-artificial-automacao.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-carreira-negocios.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-analise%20-de-dados.webp?raw=true" alt="" width="55"/>
+</p>
+<br>
 
 ## 🔧 Stack
 
@@ -43,17 +60,7 @@ Analista de dados com formação em Administração e experiência em processos 
 | **Fluxo de Caixa e DRE**       | Saldo projetado e análise de títulos a pagar/receber   | Power BI, DAX  | [ver](#) |
 | **Análise de Churn**           | Perfil e motivos de cancelamento de clientes           | Python, Pandas | [ver](#) |
 
-## 🏆 Certificações
-
-<p>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-basico-intermediario.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-intermediario-avancado.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-python-data-science.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-banco-de-dados-sql.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-inteligencia-artificial-automacao.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-carreira-negocios.webp?raw=true" alt="" width="75"/>
-  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-analise%20-de-dados.webp?raw=true" alt="" width="55"/>
-</p>
+<br>
 
 ## 📫 Contato
 
