@@ -46,8 +46,13 @@ Analista de dados com formação em Administração e experiência em processos 
 ## 🏆 Certificações
 
 <p>
-  <img src="" alt="" width="75"/>
-  
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-basico-intermediario.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-power-bi-intermediario-avancado.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-python-data-science.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-banco-de-dados-sql.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-inteligencia-artificial-automacao.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-carreira-negocios.webp?raw=true" alt="" width="75"/>
+  <img src="https://github.com/roliveira-9/portfolio/blob/main/imagens/badges/certificacoes/formacao-analise%20-de-dados.webp?raw=true" alt="" width="55"/>
 </p>
 
 ## 📫 Contato
