@@ -59,12 +59,12 @@ Minha trajetória combina formação em Administração e experiência em proces
 
 ## 📊 Principais projetos
 
-| Projeto                        | O que resolve                                          | Tecnologias    | Link     |
-| ------------------------------ | ------------------------------------------------------ | -------------- | -------- |
-| **Dashboard OEE / PCP**        | Gestão de produção: eficiência, perdas e produtividade | Power BI, DAX  | [ver](#) |
-| **People Analytics (XPeople)** | Turnover, desempenho e absenteísmo                     | Power BI, DAX  | [ver](#) |
-| **Fluxo de Caixa e DRE**       | Saldo projetado e análise de títulos a pagar/receber   | Power BI, DAX  | [ver](#) |
-| **Análise de Churn**           | Perfil e motivos de cancelamento de clientes           | Python, Pandas | [ver](#) |
+| Projeto                        | O que resolve                                               | Tecnologias           | Link                                                    |
+| ------------------------------ | ----------------------------------------------------------- | --------------------- | ------------------------------------------------------- |
+| **Análise Comercial**          | Performance de vendas, previsões e recomendações comerciais | Power BI, SQL, Python | [ver](https://github.com/roliveira-9/analise_comercial) |
+| **People Analytics (XPeople)** | Turnover, desempenho e absenteísmo                          | Power BI, DAX         | [ver](#)                                                |
+| **Fluxo de Caixa e DRE**       | Saldo projetado e análise de títulos a pagar/receber        | Power BI, DAX         | [ver](#)                                                |
+| **Análise de Churn**           | Perfil e motivos de cancelamento de clientes                | Python, Pandas        | [ver](#)                                                |
 
 <br>
 
