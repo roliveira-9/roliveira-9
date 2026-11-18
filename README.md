@@ -53,7 +53,7 @@ Minha trajetória combina formação em Administração e experiência em proces
 
 ## 👨🏻‍💻 Tecnologias
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roliveira-9&layout=compact&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roliveira-9&layout=compact&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=roliveira-9&layout=compact&theme=dark_github)
 
 <br>
 
