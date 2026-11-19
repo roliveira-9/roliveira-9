@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Analista de Dados Jr. especialista em Business Intelligence e Analytics , com sólida formação e prática em soluções de negócios.
+Analista de Dados, especialista em Business Intelligence e Analytics , com sólida formação e prática em soluções de negócios.
 
 Minha trajetória combina formação em Administração e experiência em processos corporativos, o que me permitiu desenvolver soluções inovadoras em automação, controle de custos, fluxo de caixa, relatórios e apresentações gerenciais. Essa base se soma à minha expertise em análise de dados, modelagem e visualização, sempre com o objetivo de gerar valor para as organizações.
 
@@ -19,9 +19,9 @@ Minha trajetória combina formação em Administração e experiência em proces
 
 ## 🎓 Formação
 
-- 🎓 Bacharel em Administração, Universidade Cidade de São Paulo
-- 📚 Pós-graduação (especialização) em Business Intelligence e Analytics, Universidade Anhembi Morumbi
-- 🎓 Formação em Análise de Dados, Xperiun | Data Analytics
+- 🎓 Bacharel em Administração, Universidade Cidade de São Paulo (2021)
+- 📚 Pós-graduação em Business Intelligence e Analytics, Universidade Anhembi Morumbi (2024)
+- 🎓 Formação em Análise de Dados, Xperiun | Data Analytics (2026)
 - 🥇 [Certificado Profissional Google Data Analytics (2022)](https://www.coursera.org/account/accomplishments/professional-cert/QWHBGFRQF2LZ)
 
 <br>
@@ -46,7 +46,7 @@ Minha trajetória combina formação em Administração e experiência em proces
 | **BI e Visualização**      | Power BI, DAX, Power Query, Storytelling com dados |
 | **Bancos de dados**        | SQL Server, MySQL                                  |
 | **Linguagens**             | Python, R, SQL                                     |
-| **Plataformas de dados**   | Microsoft Fabric, Databricks                       |
+| **Plataformas de dados**   | Databricks                                         |
 | **Produtividade e design** | Excel, Figma, PowerPoint                           |
 
 <br>
